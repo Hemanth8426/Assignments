@@ -1,2 +1,2 @@
 # Assignments
-Assignments for courses learning
+Created this folder to save all Assignments for courses
